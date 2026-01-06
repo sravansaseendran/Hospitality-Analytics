@@ -19,7 +19,6 @@ Key Outcomes
 - Improved data-driven reporting approach
 
 Findings:
-	
 	The cancellation rate is very high at 24.83%, causing revenue instability and poor capacity planning.
 	Occupancy is low at 57.87%, indicating many rooms remain unoccupied.
 	Some properties perform poor in revenue, bookings, and ratings, creating inconsistency across the portfolio.
@@ -31,7 +30,6 @@ Findings:
    Room category demand is uneven, with certain room types performing much better than others, indicating pricing or promotion misalignment.
 
 Solutions to overcome challenges :
-	
 	Introduce tiered cancellation policies, take partial advance payments, send automated pre-arrival reminders, and offer incentives (loyalty points or complimentary service , discounts)for non-refundable bookings to reduce the high cancellation rate.
 	Use dynamic pricing, provide early-bird and last-minute offers, strengthen digital marketing, and partner with corporates for long-stay contracts to improve overall occupancy.
 
